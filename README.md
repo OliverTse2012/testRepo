@@ -1,2 +1,2 @@
 # testRepo
-  xcc
+  xcc-test
